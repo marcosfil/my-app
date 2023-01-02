@@ -1,6 +1,9 @@
-// our - domain.com /news
+import { useRouter } from "next/router";
+
+//our´-domain.com/news/something
 
 function DetailPage() {
+  const router = useRouter();
   return <h1>The Detail Page</h1>;
 }
 
