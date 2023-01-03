@@ -9,7 +9,7 @@ function NewsPage() {
       <h1>The News Page</h1>
       <ul>
         <li>
-          <Link href="/news/nextjs-is-great">NextJs is A Great Framework</Link>
+          <Link href="/news/nextjs-is-great">NextJS is A Great Framework</Link>
         </li>
         <li>Something Else</li>
       </ul>
